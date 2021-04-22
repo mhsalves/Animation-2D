@@ -1,10 +1,8 @@
 ﻿<Properties StartupConfiguration="{692990BD-51BB-6557-1BD4-7B14BC896DEC}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraFollower.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
     <Files>
-      <File FileName="Assets/Scripts/CharacterController2D.cs" Line="38" Column="39" />
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="76" Column="74" />
-      <File FileName="Assets/Scripts/NarutoKidCommands.cs" Line="30" Column="51" />
-      <File FileName="Assets/Scripts/CameraFollower.cs" Line="5" Column="27" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="66" Column="3" />
+      <File FileName="Assets/Scripts/CameraFollower.cs" Line="6" Column="42" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +10,7 @@
           <Node name="Animations 2D" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="CameraFollower.cs" selected="True" />
+                <Node name="PlayerController.cs" selected="True" />
               </Node>
             </Node>
           </Node>

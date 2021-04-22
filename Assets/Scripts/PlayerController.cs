@@ -21,7 +21,7 @@ public class PlayerController : MonoBehaviour
 	private Rigidbody2D m_Rigidbody2D; //Componente de Rigidbody
 
 	private bool m_IsDead = false;//FLAG indicando se o player está morto
-	private const float radioReached = .2f; //Valor da distancia a ser detectada proximo do "Chão"
+	private const float radioReached = .05f; //Valor da distancia a ser detectada proximo do "Chão"
 	private bool m_OnTheGround; //FLAG que indica se o Player está tocando Chão.
 	private bool m_Flipped = false;//FLAG indicando direção do Player (Direita ou Esquerda)
 
